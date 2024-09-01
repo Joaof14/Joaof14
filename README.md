@@ -17,7 +17,7 @@ Sou formando em Ciência e Tecnologia com o objetivo de realizar um segundo cicl
 - **Comunicação**
 - **Gerenciamento de Projetos**
 
-##  Certifications
+##  Certificados
 
 - **Fundamentos de Linguagem Python para Análise de Dados e Data Science - Nível Intermediário (72 horas)** – 2023 – Data Science Academy
 - **Práticas de Cloud Services usando Swift com ênfase em Serviços Cognitivos (100 horas)** - 2023 – Instituto de Pesquisas Eldourado
