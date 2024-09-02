@@ -15,7 +15,6 @@ Sou formando em Ciência e Tecnologia com o objetivo de realizar um segundo cicl
 - **Desenvolvimento de Software**
 - **Trabalho em Equipe**
 - **Comunicação**
-- **Gerenciamento de Projetos**
 
 ##  Certificados
 
@@ -52,7 +51,6 @@ I am a graduate in Science and Technology, aiming to pursue a second degree in C
 - **Software Development**
 - **Teamwork**
 - **Communication**
-- **Project Management**
 
 ## Certifications
 
