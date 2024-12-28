@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou formando em Ciência e Tecnologia com o objetivo de realizar um segundo ciclo da graduação no curso de Engenharia de Computação. Tenho um grande interesse nas áreas de ciência de dados e desenvolvimento de software. Estou sempre buscando desenvolver minhas habilidades analíticas, além de trabalhar bem em equipe, comunicar-me de forma eficaz e gerenciar projetos com eficiência.
+Sou formado em Ciência e Tecnologia, realizando graduação no curso de Engenharia de Computação. Tenho um grande interesse nas áreas de ciência de dados e desenvolvimento de software. Estou sempre buscando desenvolver minhas habilidades analíticas, além de trabalhar bem em equipe, comunicar-me de forma eficaz e gerenciar projetos com eficiência.
 
 ## Experiência
 
@@ -38,7 +38,7 @@ Fique à vontade para explorar meus repositórios e projetos. Estou sempre abert
 
 ## About Me
 
-I am a graduate in Science and Technology, aiming to pursue a second degree in Computer Engineering. I have a strong interest in data science and software development. I am always looking to develop my analytical skills, work well in teams, communicate effectively, and manage projects efficiently.
+I am a graduated in Science and Technology, and a graduate student in Computer Engineering. I have a strong interest in data science and software development. I am always looking to develop my analytical skills, work well in teams, communicate effectively, and manage projects efficiently.
 
 ## Experience
 
