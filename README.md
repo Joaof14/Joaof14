@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou formado em Ciência e Tecnologia, realizando graduação no curso de Engenharia de Computação. Tenho um grande interesse nas áreas de ciência de dados e desenvolvimento de software. Estou sempre buscando desenvolver minhas habilidades analíticas, além de trabalhar bem em equipe, comunicar-me de forma eficaz e gerenciar projetos com eficiência.
+Sou formado em Ciência e Tecnologia, realizando graduação no curso de Engenharia de Computação. Tenho um grande interesse nas áreas de ciência de dados e Inteligência Artificial. Estou sempre buscando desenvolver minhas habilidades analíticas, além de trabalhar bem em equipe, comunicar-me de forma eficaz e gerenciar projetos com eficiência.
 
 ## Experiência
 
