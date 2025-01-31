@@ -38,7 +38,7 @@ Fique à vontade para explorar meus repositórios e projetos. Estou sempre abert
 
 ## About Me
 
-I am a graduated in Science and Technology, and a graduate student in Computer Engineering. I have a strong interest in data science and software development. I am always looking to develop my analytical skills, work well in teams, communicate effectively, and manage projects efficiently.
+I am a graduated in Science and Technology, and a graduate student in Computer Engineering. I have a strong interest in data science and Artificial Intelligence. I am always looking to develop my analytical skills, work well in teams, communicate effectively, and manage projects efficiently.
 
 ## Experience
 
