@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou formado em Ciência e Tecnologia, realizando graduação no curso de Engenharia de Computação. Tenho um grande interesse na áreas de sistemas embarcados e inteligência artificial. Estou sempre buscando desenvolver minhas habilidades analíticas, além de trabalhar bem em equipe, comunicar-me de forma eficaz e realizar projetos com eficiência.
+Sou formado em Ciência e Tecnologia, realizando graduação no curso de Engenharia de Computação. Tenho um grande interesse na áreas de sistemas embarcados, ciência de dados e inteligência artificial. Estou sempre buscando desenvolver minhas habilidades analíticas, além de trabalhar bem em equipe, comunicar-me de forma eficaz e realizar projetos com eficiência.
 
 ## Experiência
 
@@ -38,7 +38,7 @@ Fique à vontade para explorar meus repositórios e projetos. Estou sempre abert
 
 ## About Me
 
-I hold a bachelor's degree in Science and Technology and am currently a graduate student in Computer Engineering. I have a strong interest in embeded systems and artificial intelligence. I am always looking to develop my analytical skills, work well in teams, communicate effectively, and manage projects efficiently.
+I hold a bachelor's degree in Science and Technology and am currently a graduate student in Computer Engineering. I have a strong interest in embeded systems, data science and artificial intelligence. I am always looking to develop my analytical skills, work well in teams, communicate effectively, and manage projects efficiently.
 
 ## Experience
 
