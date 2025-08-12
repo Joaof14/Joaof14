@@ -6,8 +6,7 @@ Sou formado em Ciência e Tecnologia, realizando graduação no curso de Engenha
 
 ## Experiência
 
-- **Desenvolvimento de Projetos:** Participei de diversos projetos durante minha graduação, onde pude aplicar meus conhecimentos em atividades de pesquisa e desenvolvimento de artigos científicos.
-- **Cursos Extracurriculares:** Atuei no desenvolvimento de cursos extracurriculares, aprimorando ainda mais minhas habilidades técnicas e de ensino.
+- **Desenvolvimento de Projetos:** Participei de diversos cursos extracurriculares e projetos durante minha graduação, onde pude aplicar meus conhecimentos em atividades de pesquisa e desenvolvimento de artigos científicos.
 
 ## Habilidades
 
