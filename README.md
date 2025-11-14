@@ -37,7 +37,7 @@ Fique à vontade para explorar meus repositórios e projetos. Estou sempre abert
 
 ## About Me
 
-I hold a bachelor's degree in Science and Technology and am currently a graduate student in Computer Engineering. I have a strong interest in embeded systems, data science and artificial intelligence. I am always looking to develop my analytical skills, work well in teams, communicate effectively, and manage projects efficiently.
+I hold a bachelor's degree in Science and Technology and i'm currently a graduate student in Computer Engineering. I have a strong interest in embeded systems, data science and artificial intelligence. I am always looking to develop my analytical skills, work well in teams, communicate effectively, and manage projects efficiently.
 
 ## Experience
 
