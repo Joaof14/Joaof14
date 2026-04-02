@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Possuo 22 anos, sou graduado em Ciência e Tecnologia e atualmente estou cursando Engenharia da Computação, com previsão de formação até o fim de 2027. Durante minha primeira graduação participei por um ano de um projeto de Iniciação Científica na área de matemática computacional, o que despertou meu interesse pela computação e ciência de dados. Como resultado desse interesse, desenvolvi meu trabalho de conclusão de curso realizando uma análise de dados climáticos com Python. Na minha segunda graduação, estou focado no aprimoramento de minhas habilidades em ciência de dados a partir de experiências acadêmicas e profissionais que promovam a interdisciplinaridade com outras áreas da computação aplicada. Além disso, possuo inglês avançado em leitura e uma conversação intermediária próxima do nível avançado.
+Possuo 23 anos, sou graduado em Ciência e Tecnologia e atualmente estou cursando Engenharia da Computação, com previsão de formação até o fim de 2027. Durante minha primeira graduação participei por um ano de um projeto de Iniciação Científica na área de matemática computacional, o que despertou meu interesse pela computação e ciência de dados. Como resultado desse interesse, desenvolvi meu trabalho de conclusão de curso realizando uma análise de dados climáticos com Python. Na minha segunda graduação, estou focado no aprimoramento de minhas habilidades em ciência de dados a partir de experiências acadêmicas e profissionais que promovam a interdisciplinaridade com outras áreas da computação aplicada. Além disso, possuo inglês avançado em leitura e uma conversação intermediária próxima do nível avançado.
 
 ## Experiências Acadêmicas e Portfólio
 
@@ -50,7 +50,7 @@ Fique à vontade para explorar meus repositórios e projetos. Estou sempre abert
 
 ## About Me
 
-Hello! My name is João Pedro Fernandes de Aquino, I'm 22 years old, and I hold a degree in Science and Technology. I'm currently pursuing a Bachelor's in Computer Engineering, with an expected graduation by the end of 2027. During my first degree, I participated for one year in a Scientific Initiation project in computational mathematics, which sparked my interest in computing and data science. As a result, I developed my final course project performing a climate data analysis using Python. In my second degree, I'm focused on enhancing my data science skills through academic and professional experiences that promote interdisciplinarity with other areas of applied computing. Additionally, I have advanced English proficiency in reading and intermediate conversation nearing advanced level.
+Hello! My name is João Pedro Fernandes de Aquino, I'm 23 years old, and I hold a degree in Science and Technology. I'm currently pursuing a Bachelor's in Computer Engineering, with an expected graduation by the end of 2027. During my first degree, I participated for one year in a Scientific Initiation project in computational mathematics, which sparked my interest in computing and data science. As a result, I developed my final course project performing a climate data analysis using Python. In my second degree, I'm focused on enhancing my data science skills through academic and professional experiences that promote interdisciplinarity with other areas of applied computing. Additionally, I have advanced English proficiency in reading and intermediate conversation nearing advanced level.
 
 ## Academic Experiences and Portfolio
 
