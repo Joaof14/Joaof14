@@ -6,7 +6,8 @@ Possuo 23 anos, sou graduado em Ciência e Tecnologia e atualmente estou cursand
 
 ## Experiências Acadêmicas e Portfólio
 
-- [**Trabalho de Conclusão de Curso**](https://github.com/Joaof14/Analise_CO2_AnomaliasDeTemperatura) – Análise de dados temporais de concentração de CO₂ e anomalias de temperatura utilizando modelos de regressão linear em Python.  
+- [**Trabalho de Conclusão de Curso**](https://github.com/Joaof14/Analise_CO2_AnomaliasDeTemperatura) – Análise de dados temporais de concentração de CO₂ e anomalias de temperatura utilizando modelos de regressão linear em Python.
+- [**Sistemas Inteligentes**](https://github.com/Joaof14/Intelligent-Systems) - Múltiplos projetos de aprendizado de máquinas, incluindo KNN, Regressão Linear, Regressão Logística e Introdução à Redes Neurais Artificais.
 - [**SwiftUI**](https://github.com/Joaof14/SwiftUI) – Desenvolvimento de protótipo de aplicativo nutricional em linguagem Swift.  
 - [**Iniciação Científica**](https://github.com/Joaof14/Mpot) – Estudo de estratégias de aceleração do Método da Potência a partir do Método dos Mínimos Quadrados.  
 - [**Sistemas de Transmissão de Dados**](https://github.com/Joaof14/Pulse-Code-Modulation) – Simulação de transmissão digital de áudio a partir de *Pulse Code Modulation* e codificação de linha utilizando Python (Jupyter Notebook).  
@@ -54,7 +55,8 @@ Hello! My name is João Pedro Fernandes de Aquino, I'm 23 years old, and I hold 
 
 ## Academic Experiences and Portfolio
 
-- [**Undergraduate Thesis**](https://github.com/Joaof14/Analise_CO2_AnomaliasDeTemperatura) – Analysis of temporal data on CO₂ concentration and temperature anomalies using linear regression models in Python.  
+- [**Undergraduate Thesis**](https://github.com/Joaof14/Analise_CO2_AnomaliasDeTemperatura) – Analysis of temporal data on CO₂ concentration and temperature anomalies using linear regression models in Python.
+- - [**Intelligent Systems**](https://github.com/Joaof14/Intelligent-Systems) - - Multiple machine learning projects, including KNN, linear regression, logistic regression, and an introduction to artificial neural networks.
 - [**SwiftUI**](https://github.com/Joaof14/SwiftUI) – Development of a prototype nutritional application in Swift.  
 - [**Undergraduate Research (UFERSA)**](https://github.com/Joaof14/Mpot) – Study of acceleration strategies for the Power Method using the Least Squares Method.  
 - [**Data Transmission Systems**](https://github.com/Joaof14/Pulse-Code-Modulation) – Simulation of digital audio transmission using Pulse Code Modulation and Line Coding in Python (Jupyter Notebook).  
