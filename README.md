@@ -7,7 +7,7 @@ Possuo 23 anos, sou graduado em Ciência e Tecnologia e atualmente estou cursand
 ## Experiências Acadêmicas e Portfólio
 
 - [**Trabalho de Conclusão de Curso**](https://github.com/Joaof14/Analise_CO2_AnomaliasDeTemperatura) – Análise de dados temporais de concentração de CO₂ e anomalias de temperatura utilizando modelos de regressão linear em Python.
-- [**Sistemas Inteligentes**](https://github.com/Joaof14/Intelligent-Systems) - Múltiplos projetos de aprendizado de máquinas, incluindo KNN, Regressão Linear, Regressão Logística e Introdução à Redes Neurais Artificais.
+- [**Sistemas Inteligentes**](https://github.com/Joaof14/Intelligent-Systems) - Múltiplos projetos de aprendizado de máquina, incluindo KNN, Regressão Linear, Regressão Logística e Introdução à Redes Neurais Artificais.
 - [**SwiftUI**](https://github.com/Joaof14/SwiftUI) – Desenvolvimento de protótipo de aplicativo nutricional em linguagem Swift.  
 - [**Iniciação Científica**](https://github.com/Joaof14/Mpot) – Estudo de estratégias de aceleração do Método da Potência a partir do Método dos Mínimos Quadrados.  
 - [**Sistemas de Transmissão de Dados**](https://github.com/Joaof14/Pulse-Code-Modulation) – Simulação de transmissão digital de áudio a partir de *Pulse Code Modulation* e codificação de linha utilizando Python (Jupyter Notebook).  
