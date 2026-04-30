@@ -56,7 +56,7 @@ Hello! My name is João Pedro Fernandes de Aquino, I'm 23 years old, and I hold 
 ## Academic Experiences and Portfolio
 
 - [**Undergraduate Thesis**](https://github.com/Joaof14/Analise_CO2_AnomaliasDeTemperatura) – Analysis of temporal data on CO₂ concentration and temperature anomalies using linear regression models in Python.
-- - [**Intelligent Systems**](https://github.com/Joaof14/Intelligent-Systems) - - Multiple machine learning projects, including KNN, linear regression, logistic regression, and an introduction to artificial neural networks.
+- [**Intelligent Systems**](https://github.com/Joaof14/Intelligent-Systems) - - Multiple machine learning projects, including KNN, linear regression, logistic regression, and an introduction to artificial neural networks.
 - [**SwiftUI**](https://github.com/Joaof14/SwiftUI) – Development of a prototype nutritional application in Swift.  
 - [**Undergraduate Research (UFERSA)**](https://github.com/Joaof14/Mpot) – Study of acceleration strategies for the Power Method using the Least Squares Method.  
 - [**Data Transmission Systems**](https://github.com/Joaof14/Pulse-Code-Modulation) – Simulation of digital audio transmission using Pulse Code Modulation and Line Coding in Python (Jupyter Notebook).  
