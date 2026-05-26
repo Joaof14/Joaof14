@@ -4,16 +4,28 @@
 
 Possuo 23 anos, sou graduado em Ciência e Tecnologia e atualmente estou cursando Engenharia da Computação, com previsão de formação até o fim de 2027. Durante minha primeira graduação participei por um ano de um projeto de Iniciação Científica na área de matemática computacional, o que despertou meu interesse pela computação e ciência de dados. Como resultado desse interesse, desenvolvi meu trabalho de conclusão de curso realizando uma análise de dados climáticos com Python. Na minha segunda graduação, estou focado no aprimoramento de minhas habilidades em ciência de dados a partir de experiências acadêmicas e profissionais que promovam a interdisciplinaridade com outras áreas da computação aplicada. Além disso, possuo inglês avançado em leitura e uma conversação intermediária próxima do nível avançado.
 
-## Experiências Acadêmicas e Portfólio
+### Projetos em Destaque
 
-- [**Trabalho de Conclusão de Curso**](https://github.com/Joaof14/Analise_CO2_AnomaliasDeTemperatura) – Análise de dados temporais de concentração de CO₂ e anomalias de temperatura utilizando modelos de regressão linear em Python.
-- [**Sistemas Inteligentes**](https://github.com/Joaof14/Intelligent-Systems) - Múltiplos projetos de aprendizado de máquina, incluindo KNN, Regressão Linear, Regressão Logística e Introdução à Redes Neurais Artificais.
-- [**SwiftUI**](https://github.com/Joaof14/SwiftUI) – Desenvolvimento de protótipo de aplicativo nutricional em linguagem Swift.  
-- [**Iniciação Científica**](https://github.com/Joaof14/Mpot) – Estudo de estratégias de aceleração do Método da Potência a partir do Método dos Mínimos Quadrados.  
-- [**Sistemas de Transmissão de Dados**](https://github.com/Joaof14/Pulse-Code-Modulation) – Simulação de transmissão digital de áudio a partir de *Pulse Code Modulation* e codificação de linha utilizando Python (Jupyter Notebook).  
-- [**Cálculo Numérico em Python**](https://github.com/Joaof14/CalculoNumerico) – Implementações de métodos numéricos para resolução de sistemas lineares, Método dos Mínimos Quadrados e cálculo de zeros de funções.  
-- [**Estrutura de Dados em Linguagem C**](https://github.com/Joaof14/C-Projects) – Desenvolvimento de sistemas de gerenciamento para uma clínica médica e uma biblioteca, além de algoritmos de ordenação e jogo de cartas com uso de pilhas e filas.  
-- [**Sistemas Embarcados**](https://github.com/Joaof14/SistemasDigitaisEmbarcados) – Construção de sistemas embarcados para acionamento de lâmpada e fechadura eletrônica.  
+- [**Sistemas Inteligentes**](https://github.com/Joaof14/Intelligent-Systems) – Portfólio de algoritmos de Machine Learning construídos do zero, aplicados a bases públicas e validados com métricas padrão da indústria:
+    - **KNN (Iris Dataset)**: classificador de espécies com acurácia de **96%** e matriz de confusão com apenas 2 erros em 45 amostras de teste, utilizando `k=5` e distância euclidiana.
+    - **Regressão Linear (Combined Cycle Power Plant)**: modelo preditivo da produção energética atingindo **MSE de 0,049** (dados normalizados) e **R² de 0,93**, com validação por hold-out 70/30.
+    - **Regressão Logística (Heart Disease)**: diagnosticador binário com **88% de acurácia** e **F1-score de 0,86**, destacando-se na detecção de casos positivos (sensibilidade de 83%).
+    - **Rede Neural (XOR)**: perceptron multicamada treinado em **menos de 1000 épocas** para resolver o problema XOR, demonstrando o aprendizado de fronteiras não lineares com taxa de acerto de 100%.
+
+- [**TCC – Análise de CO₂ e anomalias de temperatura**](https://github.com/Joaof14/Analise_CO2_AnomaliasDeTemperatura) – Investiguei a correlação entre CO₂ e aquecimento global aplicando Mínimos Quadrados em dados da NOAA (1959‑2021). O modelo obteve **R² = 0,91** e passou nos testes t e F com **p-valor < 0,001**, comprovando a relação estatisticamente.
+
+- [**Iniciação Científica – Método da Potência**](https://github.com/Joaof14/Mpot) – Desenvolvi um framework Python que compara a convergência do Método da Potência com versões aceleradas por Aitken e Mínimos Quadrados. A aceleração reduziu em **até 30% o número de iterações** para encontrar o autovalor dominante em matrizes esparsas de grande porte.
+
+- [**Simulação de Transmissão PCM**](https://github.com/Joaof14/Pulse-Code-Modulation) – Simulei um sistema digital completo em Python (leitura de WAV, quantização 8 bits, codificação de linha Manchester/Polar) sob ruído AWGN. A análise de BER×SNR mostrou que a codificação Manchester manteve **BER < 10⁻³** mesmo com SNR de 8 dB.
+
+- [**Cálculo Numérico em Python**](https://github.com/Joaof14/CalculoNumerico) – Biblioteca com interface gráfica (Tkinter) que resolve sistemas lineares de até 500 equações com **precisão de 10⁻⁹** (Gauss/LU), ajusta curvas por MMQ e encontra zeros de funções com **tolerância de 10⁻¹²** (Newton-Raphson).
+
+- [**Estrutura de Dados em C**](https://github.com/Joaof14/C-Projects) – Construí um sistema de clínica médica capaz de gerenciar **mais de 1000 registros** em memória (busca, ordenação), além de um jogo de cartas multiplayer baseado em pilhas e filas, com validação automática de jogadas e ausência de estados inválidos.
+
+- [**Sistemas Digitais Embarcados**](https://github.com/Joaof14/SistemasDigitaisEmbarcados) – Projetei em Verilog uma fechadura eletrônica com senha, um contador bidirecional de 16 bits e um **Perceptron implementado diretamente em hardware**.
+
+- [**SwiftUI (Hackatruck)**](https://github.com/Joaof14/SwiftUI) – Protótipo de app nutricional integrando MapKit e serviços cognitivos da IBM Cloud (Text to Speech, Watson Studio), validado com usuários e respondendo em tempo real a mudanças na dieta.
+ 
 
 ## Conhecimentos e Habilidades
 
@@ -44,7 +56,7 @@ Possuo 23 anos, sou graduado em Ciência e Tecnologia e atualmente estou cursand
 
 Fique à vontade para explorar meus repositórios e projetos. Estou sempre aberto a novas oportunidades e colaborações!
 
----
+
 
 
 # Hi! I'm João Pedro Fernandes de Aquino 👋
@@ -53,16 +65,28 @@ Fique à vontade para explorar meus repositórios e projetos. Estou sempre abert
 
 Hello! My name is João Pedro Fernandes de Aquino, I'm 23 years old, and I hold a degree in Science and Technology. I'm currently pursuing a Bachelor's in Computer Engineering, with an expected graduation by the end of 2027. During my first degree, I participated for one year in a Scientific Initiation project in computational mathematics, which sparked my interest in computing and data science. As a result, I developed my final course project performing a climate data analysis using Python. In my second degree, I'm focused on enhancing my data science skills through academic and professional experiences that promote interdisciplinarity with other areas of applied computing. Additionally, I have advanced English proficiency in reading and intermediate conversation nearing advanced level.
 
-## Academic Experiences and Portfolio
+### Projects
 
-- [**Undergraduate Thesis**](https://github.com/Joaof14/Analise_CO2_AnomaliasDeTemperatura) – Analysis of temporal data on CO₂ concentration and temperature anomalies using linear regression models in Python.
-- [**Intelligent Systems**](https://github.com/Joaof14/Intelligent-Systems) - - Multiple machine learning projects, including KNN, linear regression, logistic regression, and an introduction to artificial neural networks.
-- [**SwiftUI**](https://github.com/Joaof14/SwiftUI) – Development of a prototype nutritional application in Swift.  
-- [**Undergraduate Research (UFERSA)**](https://github.com/Joaof14/Mpot) – Study of acceleration strategies for the Power Method using the Least Squares Method.  
-- [**Data Transmission Systems**](https://github.com/Joaof14/Pulse-Code-Modulation) – Simulation of digital audio transmission using Pulse Code Modulation and Line Coding in Python (Jupyter Notebook).  
-- [**Numerical Calculus in Python**](https://github.com/Joaof14/CalculoNumerico) – Implementation of numerical methods for solving linear systems, curve fitting (Least Squares Method), and finding zeros of functions.  
-- [**Data Structures in C Language**](https://github.com/Joaof14/C-Projects) – Development of management systems for a medical clinic and a library, sorting algorithms, and a card game using stacks and queues.  
-- [**Embedded Systems**](https://github.com/Joaof14/SistemasDigitaisEmbarcados) – Design of embedded systems for controlling lamps and electronic locks.  
+- [**Intelligent Systems**](https://github.com/Joaof14/Intelligent-Systems) – Built a portfolio of from-scratch machine learning algorithms, tested on public benchmarks with industry‑standard metrics:
+    - **KNN (Iris Dataset)**: 3‑species classifier achieving **96% accuracy** and only 2 misclassifications on 45 test samples (k=5, Euclidean distance).
+    - **Linear Regression (Combined Cycle Power Plant)**: energy output prediction with **MSE = 0.049** (normalized) and **R² = 0.93**, validated on a 70/30 hold‑out split.
+    - **Logistic Regression (Heart Disease)**: binary diagnostic tool with **88% accuracy** and **F1‑score = 0.86**, including 83% sensitivity for positive cases.
+    - **Neural Network (XOR)**: multilayer perceptron trained in **under 1000 epochs** to solve the XOR problem, achieving 100% accuracy and proving non‑linear separability.
+
+- [**Thesis – CO₂ & Temperature Anomalies**](https://github.com/Joaof14/Analise_CO2_AnomaliasDeTemperatura) – Investigated the link between CO₂ and global warming via Least Squares on NOAA data (1959‑2021). Model reached **R² = 0.91** with t‑test and F‑test **p‑values < 0.001**, confirming statistical significance.
+
+- [**Undergraduate Research – Power Method**](https://github.com/Joaof14/Mpot) – Built a Python framework to compare convergence of the Power Method against Aitken‑ and LSM‑accelerated versions. The best strategy cut iterations by **up to 30%** when finding dominant eigenvalues of large sparse matrices.
+
+- [**PCM Transmission Simulation**](https://github.com/Joaof14/Pulse-Code-Modulation) – Simulated a full digital audio chain (WAV input, 8‑bit quantization, line coding) under AWGN. BER×SNR analysis showed Manchester coding kept **BER < 10⁻³** even at 8 dB SNR.
+
+- [**Numerical Calculus in Python**](https://github.com/Joaof14/CalculoNumerico) – GUI‑equipped library (Tkinter) solving linear systems up to 500×500 with **10⁻⁹ precision** (Gauss/LU), performing least‑squares curve fitting, and finding zeros with **10⁻¹² tolerance** (Newton‑Raphson).
+
+- [**Data Structures in C**](https://github.com/Joaof14/C-Projects) – Developed a medical clinic system handling **1,000+ records** in memory (search, sort) and a multiplayer card game using stacks/queues with automatic move validation and zero invalid states.
+
+- [**Embedded Systems**](https://github.com/Joaof14/SistemasDigitaisEmbarcados) – Designed in Verilog an electronic lock, a 16‑bit counter, and a **hardware Perceptron**.
+
+- [**SwiftUI (Hackatruck)**](https://github.com/Joaof14/SwiftUI) – Functional nutritional app prototype integrating MapKit and IBM Cloud cognitive services, user‑tested and responding in real time.
+
 
 ## Skills
 
@@ -93,7 +117,7 @@ Hello! My name is João Pedro Fernandes de Aquino, I'm 23 years old, and I hold 
 
 Feel free to explore my repositories and projects. I am always open to new opportunities and collaborations!
 
----
+
 
 
 
