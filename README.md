@@ -56,7 +56,7 @@ Possuo 23 anos, sou graduado em Ciência e Tecnologia e atualmente estou cursand
 
 Fique à vontade para explorar meus repositórios e projetos. Estou sempre aberto a novas oportunidades e colaborações!
 
-
+---
 
 
 # Hi! I'm João Pedro Fernandes de Aquino 👋
